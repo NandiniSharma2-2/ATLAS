@@ -115,7 +115,6 @@ cd public && python -m http.server 3000
 - **Main Portal**: `http://localhost:3000/`
 - **Dashboard Demo**: `http://localhost:3000/atlas-demo.html`
 - **Authentication**: `http://localhost:3000/login.html`
-- **Diagnostics**: `http://localhost:3000/diagnostics.html`
 
 ## 🎨 Design System
 
