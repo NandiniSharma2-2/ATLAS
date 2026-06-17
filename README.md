@@ -4,9 +4,10 @@
 
 ATLAS is a comprehensive health intelligence platform that continuously learns your patterns, predicts trajectories, and surfaces the single decisions that move your health the most. Built with cutting-edge AI and designed with a premium cyberpunk aesthetic.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)](http://localhost:3000)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-purple.svg)](package.json)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_ATLAS-brightgreen?style=for-the-badge)](http://localhost:3000/atlas-demo.html)
+[![Features](https://img.shields.io/badge/🧠_AI_Features-4_Core_Systems-purple?style=for-the-badge)](#-key-features)
+[![License](https://img.shields.io/badge/📄_License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Tech Stack](https://img.shields.io/badge/🛠️_Stack-HTML5_|_CSS3_|_JS-orange?style=for-the-badge)](#-architecture)
 
 ## ✨ Key Features
 
@@ -40,33 +41,58 @@ AI-powered decision support featuring:
 
 ## 🖼️ Screenshots
 
-### AI Health Copilot Interface
-![AI Health Copilot](screenshots/ai-health-copilot.png)
-*Interactive AI assistant providing personalized health insights and recommendations*
+> **Note**: Screenshots are coming soon! For now, you can experience ATLAS live by running the demo locally.
 
-### Health Insights Dashboard
-![Health Insights](screenshots/health-insights.png)
-*Comprehensive health pattern analysis with AI-generated insights*
+### 🧠 AI Health Copilot Interface
+**Experience**: Interactive AI assistant providing personalized health insights
+- Real-time health data analysis and contextual conversations
+- Personalized recommendations with confidence scores
+- Scientific explanations and health pattern recognition
 
-### Future Health Projections
-![Future-Me Simulator](screenshots/future-me-simulator.png)
-*Predictive modeling showing health trajectories and optimization paths*
+### 📊 Health Insights Dashboard  
+**Experience**: Comprehensive health pattern analysis with AI-generated insights
+- 30-day trend analysis with correlation discoveries
+- Sleep optimization detection and hydration trend analysis
+- Future health projections with 95% confidence scoring
 
-### Decision Intelligence Center
-![Decision Intelligence](screenshots/decision-intelligence.png)
-*AI-powered decision support with prioritized recommendations*
+### 🔮 Future Health Projections
+**Experience**: Predictive modeling showing health trajectories
+- 30-day health score projection: 85 → 92 points
+- Optimization opportunities with measurable impact
+- Risk factors and key inflection points analysis
 
-### Authentication Portal
-![Login Interface](screenshots/authentication-portal.png)
-*Premium cyberpunk-themed authentication with demo mode access*
+### 🎯 Decision Intelligence Center
+**Experience**: AI-powered decision support with prioritized recommendations
+- High-impact daily decisions with effort vs. impact analysis
+- Priority 1: 10-minute post-lunch walk (+12% energy)
+- ROI calculations for health interventions
 
-### Main Dashboard
-![Main Dashboard](screenshots/main-dashboard.png)
-*Real-time health metrics with professional visualization*
+### 🔐 Authentication Portal
+**Experience**: Premium cyberpunk-themed authentication interface
+- Split-screen design with demo mode access panel
+- "Your health command center" tagline
+- End-to-end encrypted with RLS security
 
-### Detailed Analytics
-![Health Analytics](screenshots/health-analytics.png)
-*Advanced health pattern analysis and trend insights*
+### 📱 Main Dashboard
+**Experience**: Real-time health metrics with professional visualization
+- Health Score: 85/100 with trend indicators
+- Sleep Quality: 7.5h with +0.3h improvement
+- Hydration: 2.2L with animated progress
+- Activity: 9.5K steps with real-time updates
+
+### 📈 Detailed Analytics
+**Experience**: Advanced health pattern analysis interface
+- Sleep Quality: +15% improvement trend detected
+- Energy Levels: Peak at 10AM, optimization at 3PM
+- Recovery Score: 85% average (Excellent tier)
+- Mood Stability: 92% consistency rating
+
+### 🚀 **Live Demo Available**
+Experience all features by running ATLAS locally:
+```bash
+cd public && python -m http.server 3000
+# Visit: http://localhost:3000/atlas-demo.html
+```
 
 ## 🚀 Getting Started
 
