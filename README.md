@@ -41,54 +41,44 @@ AI-powered decision support featuring:
 
 ## 🖼️ Screenshots
 
-> **Note**: Screenshots are coming soon! For now, you can experience ATLAS live by running the demo locally.
-
 ### 🧠 AI Health Copilot Interface
-**Experience**: Interactive AI assistant providing personalized health insights
-- Real-time health data analysis and contextual conversations
-- Personalized recommendations with confidence scores
-- Scientific explanations and health pattern recognition
+<img width="1878" alt="AI Health Copilot - Interactive chat interface with personalized health insights and recommendations" src="https://github.com/user-attachments/assets/75876273-9f25-46d8-81db-fa5ff441ac06" />
+
+*Interactive AI assistant providing personalized health insights, contextual conversations, and scientific explanations with confidence scores*
 
 ### 📊 Health Insights Dashboard  
-**Experience**: Comprehensive health pattern analysis with AI-generated insights
-- 30-day trend analysis with correlation discoveries
-- Sleep optimization detection and hydration trend analysis
-- Future health projections with 95% confidence scoring
+<img width="1852" alt="Health Insights - Comprehensive pattern analysis with AI-generated insights and recommendations" src="https://github.com/user-attachments/assets/b80f9cd7-208c-4806-acff-be07efb188b9" />
+
+*Advanced pattern analysis across 30+ biomarkers featuring sleep optimization detection, hydration trends, and future health projections*
 
 ### 🔮 Future Health Projections
-**Experience**: Predictive modeling showing health trajectories
-- 30-day health score projection: 85 → 92 points
-- Optimization opportunities with measurable impact
-- Risk factors and key inflection points analysis
+<img width="1881" alt="Future-Me Simulator - Predictive health modeling showing 30-day trajectories and optimization paths" src="https://github.com/user-attachments/assets/b3525c0b-7d5f-49bc-bbbb-5061279065ce" />
+
+*Predictive modeling with 30-day health score projections, confidence scoring, and detailed optimization breakdowns*
 
 ### 🎯 Decision Intelligence Center
-**Experience**: AI-powered decision support with prioritized recommendations
-- High-impact daily decisions with effort vs. impact analysis
-- Priority 1: 10-minute post-lunch walk (+12% energy)
-- ROI calculations for health interventions
+<img width="1869" alt="Decision Intelligence Hub - AI-powered decision support with prioritized recommendations" src="https://github.com/user-attachments/assets/44fba3bb-db4f-4735-8cf4-8c12659f807e" />
+
+*AI-powered decision support featuring high-impact daily decisions, effort vs. impact analysis, and ROI calculations*
 
 ### 🔐 Authentication Portal
-**Experience**: Premium cyberpunk-themed authentication interface
-- Split-screen design with demo mode access panel
-- "Your health command center" tagline
-- End-to-end encrypted with RLS security
+<img width="1877" alt="Authentication Portal - Premium cyberpunk-themed login interface with demo mode access" src="https://github.com/user-attachments/assets/bbd065bb-e6ef-4362-96ca-0351953627bb" />
+
+*Premium cyberpunk-themed authentication interface with split-screen design, demo mode panel, and professional styling*
 
 ### 📱 Main Dashboard
-**Experience**: Real-time health metrics with professional visualization
-- Health Score: 85/100 with trend indicators
-- Sleep Quality: 7.5h with +0.3h improvement
-- Hydration: 2.2L with animated progress
-- Activity: 9.5K steps with real-time updates
+<img width="1878" alt="Main Dashboard - Real-time health metrics with professional visualization and live updates" src="https://github.com/user-attachments/assets/25317453-123b-4ce1-a3e6-9ab82245bc9b" />
 
-### 📈 Detailed Analytics
-**Experience**: Advanced health pattern analysis interface
-- Sleep Quality: +15% improvement trend detected
-- Energy Levels: Peak at 10AM, optimization at 3PM
-- Recovery Score: 85% average (Excellent tier)
-- Mood Stability: 92% consistency rating
+*Real-time health command center featuring Health Score (85/100), Sleep Quality (7.5h), Hydration (2.2L), and Activity (9.5K steps) with live data updates*
 
-### 🚀 **Live Demo Available**
-Experience all features by running ATLAS locally:
+### 📈 Health Analytics  
+<img width="1867" alt="Health Analytics - Advanced health pattern analysis with detailed trends and correlations" src="https://github.com/user-attachments/assets/88ca7505-8e66-43c8-b9a7-46fefc21747a" />
+
+*Comprehensive health analytics with 30-day trend analysis, energy level patterns, recovery scoring, and mood stability tracking*
+
+---
+
+### 🚀 **Experience ATLAS Live**
 ```bash
 cd public && python -m http.server 3000
 # Visit: http://localhost:3000/atlas-demo.html
